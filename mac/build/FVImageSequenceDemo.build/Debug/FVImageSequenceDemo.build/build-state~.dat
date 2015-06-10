@@ -1,0 +1,1616 @@
+TFVImageSequenceDemo
+v7
+r0
+t345979062.002405
+cCheck dependencies
+cProcessInfoPlistFile /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Info.plist FVImageSequenceDemo-Info.plist
+cCopyStringsFile /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/fernandovalente/Desktop/FVImageSequenceDemo/English.lproj/MainMenu.xib
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_0.jpg images/Seq_v04_640x378_0.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_1.jpg images/Seq_v04_640x378_1.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_10.jpg images/Seq_v04_640x378_10.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_11.jpg images/Seq_v04_640x378_11.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_12.jpg images/Seq_v04_640x378_12.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_13.jpg images/Seq_v04_640x378_13.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_14.jpg images/Seq_v04_640x378_14.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_15.jpg images/Seq_v04_640x378_15.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_16.jpg images/Seq_v04_640x378_16.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_17.jpg images/Seq_v04_640x378_17.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_18.jpg images/Seq_v04_640x378_18.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_19.jpg images/Seq_v04_640x378_19.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_2.jpg images/Seq_v04_640x378_2.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_20.jpg images/Seq_v04_640x378_20.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_21.jpg images/Seq_v04_640x378_21.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_22.jpg images/Seq_v04_640x378_22.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_23.jpg images/Seq_v04_640x378_23.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_24.jpg images/Seq_v04_640x378_24.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_25.jpg images/Seq_v04_640x378_25.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_26.jpg images/Seq_v04_640x378_26.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_27.jpg images/Seq_v04_640x378_27.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_28.jpg images/Seq_v04_640x378_28.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_29.jpg images/Seq_v04_640x378_29.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_3.jpg images/Seq_v04_640x378_3.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_30.jpg images/Seq_v04_640x378_30.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_31.jpg images/Seq_v04_640x378_31.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_32.jpg images/Seq_v04_640x378_32.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_33.jpg images/Seq_v04_640x378_33.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_34.jpg images/Seq_v04_640x378_34.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_35.jpg images/Seq_v04_640x378_35.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_36.jpg images/Seq_v04_640x378_36.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_37.jpg images/Seq_v04_640x378_37.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_38.jpg images/Seq_v04_640x378_38.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_39.jpg images/Seq_v04_640x378_39.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_4.jpg images/Seq_v04_640x378_4.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_40.jpg images/Seq_v04_640x378_40.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_41.jpg images/Seq_v04_640x378_41.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_42.jpg images/Seq_v04_640x378_42.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_43.jpg images/Seq_v04_640x378_43.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_44.jpg images/Seq_v04_640x378_44.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_45.jpg images/Seq_v04_640x378_45.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_46.jpg images/Seq_v04_640x378_46.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_47.jpg images/Seq_v04_640x378_47.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_48.jpg images/Seq_v04_640x378_48.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_49.jpg images/Seq_v04_640x378_49.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_5.jpg images/Seq_v04_640x378_5.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_50.jpg images/Seq_v04_640x378_50.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_51.jpg images/Seq_v04_640x378_51.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_52.jpg images/Seq_v04_640x378_52.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_53.jpg images/Seq_v04_640x378_53.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_54.jpg images/Seq_v04_640x378_54.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_55.jpg images/Seq_v04_640x378_55.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_56.jpg images/Seq_v04_640x378_56.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_57.jpg images/Seq_v04_640x378_57.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_58.jpg images/Seq_v04_640x378_58.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_59.jpg images/Seq_v04_640x378_59.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_6.jpg images/Seq_v04_640x378_6.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_60.jpg images/Seq_v04_640x378_60.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_61.jpg images/Seq_v04_640x378_61.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_62.jpg images/Seq_v04_640x378_62.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_63.jpg images/Seq_v04_640x378_63.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_64.jpg images/Seq_v04_640x378_64.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_65.jpg images/Seq_v04_640x378_65.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_66.jpg images/Seq_v04_640x378_66.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_67.jpg images/Seq_v04_640x378_67.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_68.jpg images/Seq_v04_640x378_68.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_69.jpg images/Seq_v04_640x378_69.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_7.jpg images/Seq_v04_640x378_7.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_70.jpg images/Seq_v04_640x378_70.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_71.jpg images/Seq_v04_640x378_71.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_72.jpg images/Seq_v04_640x378_72.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_8.jpg images/Seq_v04_640x378_8.jpg
+cCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_9.jpg images/Seq_v04_640x378_9.jpg
+cProcessPCH /var/folders/wp/b6wp1w0n6xv5hmx_rtb_kzjw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FVImageSequenceDemo_Prefix-elzpiotvdgxjnodkxxyutureouew/FVImageSequenceDemo_Prefix.pch.gch FVImageSequenceDemo_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/Objects-normal/x86_64/main.o /Users/fernandovalente/Desktop/FVImageSequenceDemo/main.m normal x86_64 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/Objects-normal/x86_64/FVImageSequenceDemoAppDelegate.o /Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequenceDemoAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/Objects-normal/x86_64/FVImageSequence.o /Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m normal x86_64 objective-c com.apple.compilers.llvmgcc42
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004EE67D6E0000000000006560
+t1323728238
+s25952
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/English.lproj/InfoPlist.strings
+c000000004EEEFFD3000000000000002D
+t1324285907
+s45
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/English.lproj/MainMenu.xib
+c000000004EEF011F0000000000035461
+t1324286239
+s218209
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.h
+c000000004EEF00110000000000000207
+t1324285969
+s519
+i<Cocoa/Cocoa.h>
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m
+c000000004EEF0133000000000000048D
+t1324286259
+s1165
+i"FVImageSequence.h"
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequenceDemoAppDelegate.h
+c000000004EEF00EC00000000000001AA
+t1324286188
+s426
+i<Cocoa/Cocoa.h>
+i"FVImageSequence.h"
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequenceDemoAppDelegate.m
+c000000004EEF00E00000000000000206
+t1324286176
+s518
+i"FVImageSequenceDemoAppDelegate.h"
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequenceDemo_Prefix.pch
+c000000004EEEFFD300000000000000A9
+t1324285907
+s169
+i<Cocoa/Cocoa.h>
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app
+t1324286253
+s102
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Info.plist
+t1324286253
+s922
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/MacOS/FVImageSequenceDemo
+t2
+s0
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/PkgInfo
+t1324286253
+s8
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1324286254
+s92
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/English.lproj/MainMenu.nib
+t1324286255
+s29241
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_0.jpg
+t1324286254
+s20906
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_1.jpg
+t1324286255
+s20906
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_10.jpg
+t1324286254
+s16393
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_11.jpg
+t1324286254
+s18154
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_12.jpg
+t1324286255
+s19701
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_13.jpg
+t1324286255
+s20957
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_14.jpg
+t1324286255
+s22243
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_15.jpg
+t1324286255
+s22678
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_16.jpg
+t1324286255
+s22825
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_17.jpg
+t1324286255
+s23215
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_18.jpg
+t1324286255
+s22726
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_19.jpg
+t1324286255
+s22858
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_2.jpg
+t1324286255
+s20134
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_20.jpg
+t1324286255
+s22795
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_21.jpg
+t1324286255
+s22583
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_22.jpg
+t1324286255
+s22503
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_23.jpg
+t1324286255
+s22594
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_24.jpg
+t1324286255
+s22897
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_25.jpg
+t1324286255
+s23115
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_26.jpg
+t1324286255
+s23138
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_27.jpg
+t1324286255
+s23554
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_28.jpg
+t1324286255
+s23670
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_29.jpg
+t1324286255
+s23684
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_3.jpg
+t1324286255
+s19516
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_30.jpg
+t1324286255
+s23380
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_31.jpg
+t1324286255
+s23611
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_32.jpg
+t1324286255
+s23826
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_33.jpg
+t1324286255
+s24067
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_34.jpg
+t1324286255
+s23727
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_35.jpg
+t1324286255
+s23119
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_36.jpg
+t1324286255
+s22190
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_37.jpg
+t1324286255
+s21287
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_38.jpg
+t1324286255
+s20271
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_39.jpg
+t1324286255
+s20807
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_4.jpg
+t1324286255
+s18181
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_40.jpg
+t1324286255
+s21040
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_41.jpg
+t1324286255
+s21099
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_42.jpg
+t1324286255
+s20920
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_43.jpg
+t1324286255
+s20178
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_44.jpg
+t1324286255
+s19603
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_45.jpg
+t1324286255
+s19089
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_46.jpg
+t1324286255
+s18704
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_47.jpg
+t1324286255
+s18228
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_48.jpg
+t1324286255
+s17912
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_49.jpg
+t1324286255
+s17898
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_5.jpg
+t1324286255
+s17152
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_50.jpg
+t1324286255
+s19144
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_51.jpg
+t1324286255
+s20498
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_52.jpg
+t1324286255
+s21517
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_53.jpg
+t1324286255
+s22353
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_54.jpg
+t1324286255
+s22872
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_55.jpg
+t1324286255
+s23129
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_56.jpg
+t1324286255
+s23369
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_57.jpg
+t1324286255
+s23016
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_58.jpg
+t1324286255
+s22727
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_59.jpg
+t1324286255
+s22052
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_6.jpg
+t1324286255
+s16512
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_60.jpg
+t1324286255
+s21484
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_61.jpg
+t1324286255
+s21086
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_62.jpg
+t1324286255
+s21228
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_63.jpg
+t1324286255
+s21695
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_64.jpg
+t1324286255
+s22451
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_65.jpg
+t1324286255
+s22890
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_66.jpg
+t1324286255
+s23226
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_67.jpg
+t1324286255
+s23232
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_68.jpg
+t1324286255
+s23060
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_69.jpg
+t1324286255
+s23137
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_7.jpg
+t1324286255
+s15653
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_70.jpg
+t1324286255
+s22404
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_71.jpg
+t1324286255
+s22184
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_72.jpg
+t1324286255
+s21570
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_8.jpg
+t1324286255
+s15083
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_9.jpg
+t1324286255
+s15002
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/Objects-normal/x86_64/FVImageSequence.o
+t2
+s0
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/Objects-normal/x86_64/FVImageSequenceDemo.LinkFileList
+c000000004EEF012D00000000000001D5
+t1324286253
+s469
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/Objects-normal/x86_64/FVImageSequenceDemoAppDelegate.o
+t2
+s0
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/Objects-normal/x86_64/main.o
+t1324286261
+s2428
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_0.jpg
+c000000004EEEF88000000000000051AA
+t1324284032
+s20906
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_1.jpg
+c000000004EEEF88000000000000051AA
+t1324284032
+s20906
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_10.jpg
+c000000004EEEF8600000000000004009
+t1324284000
+s16393
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_11.jpg
+c000000004EEEF85D00000000000046EA
+t1324283997
+s18154
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_12.jpg
+c000000004EEEFF170000000000004CF5
+t1324285719
+s19701
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_13.jpg
+c000000004EEEF85800000000000051DD
+t1324283992
+s20957
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_14.jpg
+c000000004EEEF85600000000000056E3
+t1324283990
+s22243
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_15.jpg
+c000000004EEEF8520000000000005896
+t1324283986
+s22678
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_16.jpg
+c000000004EEEF84F0000000000005929
+t1324283983
+s22825
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_17.jpg
+c000000004EEEF84D0000000000005AAF
+t1324283981
+s23215
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_18.jpg
+c000000004EEEF84300000000000058C6
+t1324283971
+s22726
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_19.jpg
+c000000004EEEF83C000000000000594A
+t1324283964
+s22858
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_2.jpg
+c000000004EEEF87D0000000000004EA6
+t1324284029
+s20134
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_20.jpg
+c000000004EEEF839000000000000590B
+t1324283961
+s22795
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_21.jpg
+c000000004EEEF7E10000000000005837
+t1324283873
+s22583
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_22.jpg
+c000000004EEEFEFD00000000000057E7
+t1324285693
+s22503
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_23.jpg
+c000000004EEEF7DE0000000000005842
+t1324283870
+s22594
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_24.jpg
+c000000004EEEF7DC0000000000005971
+t1324283868
+s22897
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_25.jpg
+c000000004EEEF7DA0000000000005A4B
+t1324283866
+s23115
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_26.jpg
+c000000004EEEF7D60000000000005A62
+t1324283862
+s23138
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_27.jpg
+c000000004EEEF7D40000000000005C02
+t1324283860
+s23554
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_28.jpg
+c000000004EEEF7D00000000000005C76
+t1324283856
+s23670
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_29.jpg
+c000000004EEEF7CE0000000000005C84
+t1324283854
+s23684
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_3.jpg
+c000000004EEEF87B0000000000004C3C
+t1324284027
+s19516
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_30.jpg
+c000000004EEEF7CB0000000000005B54
+t1324283851
+s23380
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_31.jpg
+c000000004EEEF7C90000000000005C3B
+t1324283849
+s23611
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_32.jpg
+c000000004EEEF7C60000000000005D12
+t1324283846
+s23826
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_33.jpg
+c000000004EEEF7C40000000000005E03
+t1324283844
+s24067
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_34.jpg
+c000000004EEEF7C10000000000005CAF
+t1324283841
+s23727
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_35.jpg
+c000000004EEEF7970000000000005A4F
+t1324283799
+s23119
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_36.jpg
+c000000004EEEFF4C00000000000056AE
+t1324285772
+s22190
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_37.jpg
+c000000004EEEF7950000000000005327
+t1324283797
+s21287
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_38.jpg
+c000000004EEEF7920000000000004F2F
+t1324283794
+s20271
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_39.jpg
+c000000004EEEF78F0000000000005147
+t1324283791
+s20807
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_4.jpg
+c000000004EEEF8770000000000004705
+t1324284023
+s18181
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_40.jpg
+c000000004EEEF78C0000000000005230
+t1324283788
+s21040
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_41.jpg
+c000000004EEEF789000000000000526B
+t1324283785
+s21099
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_42.jpg
+c000000004EEEF78600000000000051B8
+t1324283782
+s20920
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_43.jpg
+c000000004EEEF77F0000000000004ED2
+t1324283775
+s20178
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_44.jpg
+c000000004EEEF7820000000000004C93
+t1324283778
+s19603
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_45.jpg
+c000000004EEEF77C0000000000004A91
+t1324283772
+s19089
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_46.jpg
+c000000004EEEF7770000000000004910
+t1324283767
+s18704
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_47.jpg
+c000000004EEEF7710000000000004734
+t1324283761
+s18228
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_48.jpg
+c000000004EEEF76F00000000000045F8
+t1324283759
+s17912
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_49.jpg
+c000000004EEEF72700000000000045EA
+t1324283687
+s17898
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_5.jpg
+c000000004EEEF8740000000000004300
+t1324284020
+s17152
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_50.jpg
+c000000004EEEF7180000000000004AC8
+t1324283672
+s19144
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_51.jpg
+c000000004EEEF7160000000000005012
+t1324283670
+s20498
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_52.jpg
+c000000004EEEF713000000000000540D
+t1324283667
+s21517
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_53.jpg
+c000000004EEEF7100000000000005751
+t1324283664
+s22353
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_54.jpg
+c000000004EEEF73D0000000000005958
+t1324283709
+s22872
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_55.jpg
+c000000004EEEF70D0000000000005A59
+t1324283661
+s23129
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_56.jpg
+c000000004EEEF7040000000000005B49
+t1324283652
+s23369
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_57.jpg
+c000000004EEEF73100000000000059E8
+t1324283697
+s23016
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_58.jpg
+c000000004EEEF70000000000000058C7
+t1324283648
+s22727
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_59.jpg
+c000000004EEEF6FA0000000000005624
+t1324283642
+s22052
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_6.jpg
+c000000004EEEF8710000000000004080
+t1324284017
+s16512
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_60.jpg
+c000000004EEEF6D900000000000053EC
+t1324283609
+s21484
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_61.jpg
+c000000004EEEF6CE000000000000525E
+t1324283598
+s21086
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_62.jpg
+c000000004EEEF6C200000000000052EC
+t1324283586
+s21228
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_63.jpg
+c000000004EEEF68000000000000054BF
+t1324283520
+s21695
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_64.jpg
+c000000004EEEF66100000000000057B3
+t1324283489
+s22451
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_65.jpg
+c000000004EEEF623000000000000596A
+t1324283427
+s22890
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_66.jpg
+c000000004EEEF6180000000000005ABA
+t1324283416
+s23226
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_67.jpg
+c000000004EEEF6130000000000005AC0
+t1324283411
+s23232
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_68.jpg
+c000000004EEEF60E0000000000005A14
+t1324283406
+s23060
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_69.jpg
+c000000004EEEF6090000000000005A61
+t1324283401
+s23137
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_7.jpg
+c000000004EEEF86F0000000000003D25
+t1324284015
+s15653
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_70.jpg
+c000000004EEEF6030000000000005784
+t1324283395
+s22404
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_71.jpg
+c000000004EEEF5FE00000000000056A8
+t1324283390
+s22184
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_72.jpg
+c000000004EEEF5F90000000000005442
+t1324283385
+s21570
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_8.jpg
+c000000004EEEF86C0000000000003AEB
+t1324284012
+s15083
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_9.jpg
+c000000004EEEF8630000000000003A9A
+t1324284003
+s15002
+
+N/Users/fernandovalente/Desktop/FVImageSequenceDemo/main.m
+c000000004EEEFFD3000000000000010E
+t1324285907
+s270
+i<Cocoa/Cocoa.h>
+
+N/var/folders/wp/b6wp1w0n6xv5hmx_rtb_kzjw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FVImageSequenceDemo_Prefix-elzpiotvdgxjnodkxxyutureouew/FVImageSequenceDemo_Prefix.pch.gch
+t1324286261
+s40867600
+
+NFVImageSequenceDemo-Info.plist
+c000000004EEEFFD300000000000003EA
+t1324285907
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies345979053#345979053#0(0"0(0#1#0"4512691520#0"0#
+
+CCompileC build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/Objects-normal/x86_64/FVImageSequence.o /Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m normal x86_64 objective-c com.apple.compilers.llvmgcc42
+s345979061.587388
+e345979061.875474
+r0
+xCompileC
+xbuild/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/Objects-normal/x86_64/FVImageSequence.o
+x/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+o/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m: In function '-[FVImageSequence mouseDown:]':
+o/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m:19: error: 'event' undeclared (first use in this function)
+o/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m:19: error: (Each undeclared identifier is reported only once
+o/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m:19: error: for each function it appears in.)
+o/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m: At top level:
+o/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m:27: error: expected ')' before 'UIEvent'
+o/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m: In function '-[FVImageSequence touchesMoved:withEvent:]':
+o/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m:28: warning: no '-locationInView' method found
+o/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m:28: warning: (Messages without a matching method signature
+o/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m:28: warning: will be assumed to return 'id' and accept
+o/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m:28: warning: '...' as arguments.)
+o/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m:28: error: invalid initializer
+lSLF07#2@76"Compile /Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m345979061#345979061#0(1380"/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m: In function '-[FVImageSequence mouseDown:]':/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m:19: error: 'event' undeclared (first use in this function)/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m:19: error: (Each undeclared identifier is reported only once/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m:19: error: for each function it appears in.)/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m: At top level:/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m:27: error: expected ')' before 'UIEvent'/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m: In function '-[FVImageSequence touchesMoved:withEvent:]':/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m:28: warning: no '-locationInView' method found/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m:28: warning: (Messages without a matching method signature/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m:28: warning: will be assumed to return 'id' and accept/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m:28: warning: '...' as arguments.)/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m:28: error: invalid initializer6(4@47"'event' undeclared (first use in this function)345979061#115#128#0(6@68"/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m345978882#19#0#19#0#43"'*' undeclared (first use in this function)0(23@13"At top level:345979061#487#84#0(6@68"/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m345978882#0#0#0#0#0"0(4@29"Expected ')' before 'UIEvent'345979061#571#110#0(6@68"/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m345978882#27#0#27#0#19"expected * before *0(22@33"No '-locationInView' method found345979061#809#116#0(6@68"/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m345978882#28#0#28#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)345979061#925#128#0(6@68"/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m345978882#28#0#28#0#0"0(4@19"Invalid initializer345979061#1280#100#0(6@68"/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m345978882#28#0#28#0#0"0(0#0#68"/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m4512689808#1886"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/FVImageSequenceDemo-generated-files.hmap -I/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/FVImageSequenceDemo-own-target-headers.hmap -I/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/FVImageSequenceDemo-all-target-headers.hmap -iquote /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/FVImageSequenceDemo-project-headers.hmap -F/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug -I/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/include -I/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/DerivedSources/x86_64 -I/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/DerivedSources -isysroot /Developer/SDKs/MacOSX10.6.sdk -include /var/folders/wp/b6wp1w0n6xv5hmx_rtb_kzjw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FVImageSequenceDemo_Prefix-elzpiotvdgxjnodkxxyutureouew/FVImageSequenceDemo_Prefix.pch -c /Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequence.m -o /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/Objects-normal/x86_64/FVImageSequence.o1#
+
+CCompileC build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/Objects-normal/x86_64/FVImageSequenceDemoAppDelegate.o /Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequenceDemoAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvmgcc42
+s345979061.265794
+e345979061.587272
+r0
+xCompileC
+xbuild/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/Objects-normal/x86_64/FVImageSequenceDemoAppDelegate.o
+x/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequenceDemoAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+o/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequenceDemoAppDelegate.m: In function '-[FVImageSequenceDemoAppDelegate awakeFromNib]':
+o/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequenceDemoAppDelegate.m:17: error: 'imageSquence' undeclared (first use in this function)
+o/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequenceDemoAppDelegate.m:17: error: (Each undeclared identifier is reported only once
+o/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequenceDemoAppDelegate.m:17: error: for each function it appears in.)
+lSLF07#2@91"Compile /Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequenceDemoAppDelegate.m345979061#345979061#0(571"/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequenceDemoAppDelegate.m: In function '-[FVImageSequenceDemoAppDelegate awakeFromNib]':/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequenceDemoAppDelegate.m:17: error: 'imageSquence' undeclared (first use in this function)/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequenceDemoAppDelegate.m:17: error: (Each undeclared identifier is reported only once/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequenceDemoAppDelegate.m:17: error: for each function it appears in.)1(4@54"'imageSquence' undeclared (first use in this function)345979061#147#150#0(6@83"/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequenceDemoAppDelegate.m345978976#17#0#17#0#43"'*' undeclared (first use in this function)0(0#0#83"/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequenceDemoAppDelegate.m4512689808#1916"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/FVImageSequenceDemo-generated-files.hmap -I/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/FVImageSequenceDemo-own-target-headers.hmap -I/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/FVImageSequenceDemo-all-target-headers.hmap -iquote /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/FVImageSequenceDemo-project-headers.hmap -F/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug -I/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/include -I/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/DerivedSources/x86_64 -I/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/DerivedSources -isysroot /Developer/SDKs/MacOSX10.6.sdk -include /var/folders/wp/b6wp1w0n6xv5hmx_rtb_kzjw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FVImageSequenceDemo_Prefix-elzpiotvdgxjnodkxxyutureouew/FVImageSequenceDemo_Prefix.pch -c /Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequenceDemoAppDelegate.m -o /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/Objects-normal/x86_64/FVImageSequenceDemoAppDelegate.o1#
+
+CCompileC build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/Objects-normal/x86_64/main.o /Users/fernandovalente/Desktop/FVImageSequenceDemo/main.m normal x86_64 objective-c com.apple.compilers.llvmgcc42
+s345979061.203935
+e345979062.002309
+r1
+xCompileC
+xbuild/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/Objects-normal/x86_64/main.o
+x/Users/fernandovalente/Desktop/FVImageSequenceDemo/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@65"Compile /Users/fernandovalente/Desktop/FVImageSequenceDemo/main.m345979061#345979062#0(0"0(0#0#57"/Users/fernandovalente/Desktop/FVImageSequenceDemo/main.m4512689808#1864"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/FVImageSequenceDemo-generated-files.hmap -I/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/FVImageSequenceDemo-own-target-headers.hmap -I/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/FVImageSequenceDemo-all-target-headers.hmap -iquote /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/FVImageSequenceDemo-project-headers.hmap -F/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug -I/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/include -I/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/DerivedSources/x86_64 -I/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/DerivedSources -isysroot /Developer/SDKs/MacOSX10.6.sdk -include /var/folders/wp/b6wp1w0n6xv5hmx_rtb_kzjw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FVImageSequenceDemo_Prefix-elzpiotvdgxjnodkxxyutureouew/FVImageSequenceDemo_Prefix.pch -c /Users/fernandovalente/Desktop/FVImageSequenceDemo/main.m -o /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/fernandovalente/Desktop/FVImageSequenceDemo/English.lproj/MainMenu.xib
+s345979053.267170
+e345979055.233952
+r1
+xCompileXIB
+x/Users/fernandovalente/Desktop/FVImageSequenceDemo/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib345979053#345979055#0(0"0(0#0#77"/Users/fernandovalente/Desktop/FVImageSequenceDemo/English.lproj/MainMenu.xib4512689808#412"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/English.lproj/MainMenu.nib /Users/fernandovalente/Desktop/FVImageSequenceDemo/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s345979053.266134
+e345979054.906445
+r1
+xCopyStringsFile
+x/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings345979053#345979054#0(0"0(0#0#82"/Users/fernandovalente/Desktop/FVImageSequenceDemo/English.lproj/InfoPlist.strings4512689808#401"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_0.jpg images/Seq_v04_640x378_0.jpg
+s345979054.906594
+e345979054.990869
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_0.jpg
+ximages/Seq_v04_640x378_0.jpg
+lSLF07#2@33"Copy images/Seq_v04_640x378_0.jpg345979054#345979054#0(0"0(0#0#79"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_0.jpg4512689808#406"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_0.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_1.jpg images/Seq_v04_640x378_1.jpg
+s345979054.907659
+e345979055.018504
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_1.jpg
+ximages/Seq_v04_640x378_1.jpg
+lSLF07#2@33"Copy images/Seq_v04_640x378_1.jpg345979054#345979055#0(0"0(0#0#79"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_1.jpg4512689808#406"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_1.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_10.jpg images/Seq_v04_640x378_10.jpg
+s345979054.908433
+e345979054.991032
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_10.jpg
+ximages/Seq_v04_640x378_10.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_10.jpg345979054#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_10.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_10.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_11.jpg images/Seq_v04_640x378_11.jpg
+s345979054.911426
+e345979054.991178
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_11.jpg
+ximages/Seq_v04_640x378_11.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_11.jpg345979054#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_11.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_11.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_12.jpg images/Seq_v04_640x378_12.jpg
+s345979054.927942
+e345979055.061163
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_12.jpg
+ximages/Seq_v04_640x378_12.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_12.jpg345979054#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_12.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_12.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_13.jpg images/Seq_v04_640x378_13.jpg
+s345979054.980408
+e345979055.018647
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_13.jpg
+ximages/Seq_v04_640x378_13.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_13.jpg345979054#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_13.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_13.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_14.jpg images/Seq_v04_640x378_14.jpg
+s345979054.982248
+e345979055.018775
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_14.jpg
+ximages/Seq_v04_640x378_14.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_14.jpg345979054#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_14.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_14.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_15.jpg images/Seq_v04_640x378_15.jpg
+s345979054.985236
+e345979055.061289
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_15.jpg
+ximages/Seq_v04_640x378_15.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_15.jpg345979054#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_15.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_15.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_16.jpg images/Seq_v04_640x378_16.jpg
+s345979054.988040
+e345979055.061415
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_16.jpg
+ximages/Seq_v04_640x378_16.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_16.jpg345979054#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_16.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_16.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_17.jpg images/Seq_v04_640x378_17.jpg
+s345979054.991303
+e345979055.060757
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_17.jpg
+ximages/Seq_v04_640x378_17.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_17.jpg345979054#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_17.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_17.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_18.jpg images/Seq_v04_640x378_18.jpg
+s345979055.010527
+e345979055.060907
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_18.jpg
+ximages/Seq_v04_640x378_18.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_18.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_18.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_18.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_19.jpg images/Seq_v04_640x378_19.jpg
+s345979055.015510
+e345979055.061038
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_19.jpg
+ximages/Seq_v04_640x378_19.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_19.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_19.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_19.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_2.jpg images/Seq_v04_640x378_2.jpg
+s345979055.018966
+e345979055.141241
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_2.jpg
+ximages/Seq_v04_640x378_2.jpg
+lSLF07#2@33"Copy images/Seq_v04_640x378_2.jpg345979055#345979055#0(0"0(0#0#79"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_2.jpg4512689808#406"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_2.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_20.jpg images/Seq_v04_640x378_20.jpg
+s345979055.023353
+e345979055.154715
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_20.jpg
+ximages/Seq_v04_640x378_20.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_20.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_20.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_20.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_21.jpg images/Seq_v04_640x378_21.jpg
+s345979055.033378
+e345979055.154858
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_21.jpg
+ximages/Seq_v04_640x378_21.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_21.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_21.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_21.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_22.jpg images/Seq_v04_640x378_22.jpg
+s345979055.061615
+e345979055.233809
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_22.jpg
+ximages/Seq_v04_640x378_22.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_22.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_22.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_22.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_23.jpg images/Seq_v04_640x378_23.jpg
+s345979055.090388
+e345979055.154191
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_23.jpg
+ximages/Seq_v04_640x378_23.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_23.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_23.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_23.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_24.jpg images/Seq_v04_640x378_24.jpg
+s345979055.093801
+e345979055.154409
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_24.jpg
+ximages/Seq_v04_640x378_24.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_24.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_24.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_24.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_25.jpg images/Seq_v04_640x378_25.jpg
+s345979055.094610
+e345979055.154564
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_25.jpg
+ximages/Seq_v04_640x378_25.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_25.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_25.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_25.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_26.jpg images/Seq_v04_640x378_26.jpg
+s345979055.095339
+e345979055.155004
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_26.jpg
+ximages/Seq_v04_640x378_26.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_26.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_26.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_26.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_27.jpg images/Seq_v04_640x378_27.jpg
+s345979055.096018
+e345979055.155154
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_27.jpg
+ximages/Seq_v04_640x378_27.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_27.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_27.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_27.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_28.jpg images/Seq_v04_640x378_28.jpg
+s345979055.157716
+e345979055.234077
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_28.jpg
+ximages/Seq_v04_640x378_28.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_28.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_28.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_28.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_29.jpg images/Seq_v04_640x378_29.jpg
+s345979055.176930
+e345979055.234311
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_29.jpg
+ximages/Seq_v04_640x378_29.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_29.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_29.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_29.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_3.jpg images/Seq_v04_640x378_3.jpg
+s345979055.182358
+e345979055.234435
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_3.jpg
+ximages/Seq_v04_640x378_3.jpg
+lSLF07#2@33"Copy images/Seq_v04_640x378_3.jpg345979055#345979055#0(0"0(0#0#79"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_3.jpg4512689808#406"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_3.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_30.jpg images/Seq_v04_640x378_30.jpg
+s345979055.191910
+e345979055.234559
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_30.jpg
+ximages/Seq_v04_640x378_30.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_30.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_30.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_30.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_31.jpg images/Seq_v04_640x378_31.jpg
+s345979055.202571
+e345979055.277895
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_31.jpg
+ximages/Seq_v04_640x378_31.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_31.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_31.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_31.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_32.jpg images/Seq_v04_640x378_32.jpg
+s345979055.212053
+e345979055.278019
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_32.jpg
+ximages/Seq_v04_640x378_32.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_32.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_32.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_32.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_33.jpg images/Seq_v04_640x378_33.jpg
+s345979055.227787
+e345979055.278142
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_33.jpg
+ximages/Seq_v04_640x378_33.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_33.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_33.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_33.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_34.jpg images/Seq_v04_640x378_34.jpg
+s345979055.229953
+e345979055.278266
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_34.jpg
+ximages/Seq_v04_640x378_34.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_34.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_34.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_34.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_35.jpg images/Seq_v04_640x378_35.jpg
+s345979055.234685
+e345979055.276895
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_35.jpg
+ximages/Seq_v04_640x378_35.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_35.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_35.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_35.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_36.jpg images/Seq_v04_640x378_36.jpg
+s345979055.249864
+e345979055.277491
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_36.jpg
+ximages/Seq_v04_640x378_36.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_36.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_36.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_36.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_37.jpg images/Seq_v04_640x378_37.jpg
+s345979055.251718
+e345979055.277643
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_37.jpg
+ximages/Seq_v04_640x378_37.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_37.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_37.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_37.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_38.jpg images/Seq_v04_640x378_38.jpg
+s345979055.254612
+e345979055.277768
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_38.jpg
+ximages/Seq_v04_640x378_38.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_38.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_38.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_38.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_39.jpg images/Seq_v04_640x378_39.jpg
+s345979055.267738
+e345979055.327175
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_39.jpg
+ximages/Seq_v04_640x378_39.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_39.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_39.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_39.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_4.jpg images/Seq_v04_640x378_4.jpg
+s345979055.274685
+e345979055.327294
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_4.jpg
+ximages/Seq_v04_640x378_4.jpg
+lSLF07#2@33"Copy images/Seq_v04_640x378_4.jpg345979055#345979055#0(0"0(0#0#79"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_4.jpg4512689808#406"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_4.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_40.jpg images/Seq_v04_640x378_40.jpg
+s345979055.278343
+e345979055.326667
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_40.jpg
+ximages/Seq_v04_640x378_40.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_40.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_40.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_40.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_41.jpg images/Seq_v04_640x378_41.jpg
+s345979055.281840
+e345979055.326808
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_41.jpg
+ximages/Seq_v04_640x378_41.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_41.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_41.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_41.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_42.jpg images/Seq_v04_640x378_42.jpg
+s345979055.290686
+e345979055.326934
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_42.jpg
+ximages/Seq_v04_640x378_42.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_42.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_42.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_42.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_43.jpg images/Seq_v04_640x378_43.jpg
+s345979055.300126
+e345979055.327055
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_43.jpg
+ximages/Seq_v04_640x378_43.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_43.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_43.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_43.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_44.jpg images/Seq_v04_640x378_44.jpg
+s345979055.308128
+e345979055.327415
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_44.jpg
+ximages/Seq_v04_640x378_44.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_44.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_44.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_44.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_45.jpg images/Seq_v04_640x378_45.jpg
+s345979055.310006
+e345979055.327536
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_45.jpg
+ximages/Seq_v04_640x378_45.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_45.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_45.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_45.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_46.jpg images/Seq_v04_640x378_46.jpg
+s345979055.312774
+e345979055.430398
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_46.jpg
+ximages/Seq_v04_640x378_46.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_46.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_46.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_46.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_47.jpg images/Seq_v04_640x378_47.jpg
+s345979055.314782
+e345979055.430539
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_47.jpg
+ximages/Seq_v04_640x378_47.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_47.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_47.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_47.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_48.jpg images/Seq_v04_640x378_48.jpg
+s345979055.327614
+e345979055.428960
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_48.jpg
+ximages/Seq_v04_640x378_48.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_48.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_48.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_48.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_49.jpg images/Seq_v04_640x378_49.jpg
+s345979055.336582
+e345979055.429133
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_49.jpg
+ximages/Seq_v04_640x378_49.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_49.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_49.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_49.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_5.jpg images/Seq_v04_640x378_5.jpg
+s345979055.350722
+e345979055.429513
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_5.jpg
+ximages/Seq_v04_640x378_5.jpg
+lSLF07#2@33"Copy images/Seq_v04_640x378_5.jpg345979055#345979055#0(0"0(0#0#79"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_5.jpg4512689808#406"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_5.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_50.jpg images/Seq_v04_640x378_50.jpg
+s345979055.371698
+e345979055.429666
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_50.jpg
+ximages/Seq_v04_640x378_50.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_50.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_50.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_50.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_51.jpg images/Seq_v04_640x378_51.jpg
+s345979055.375495
+e345979055.429815
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_51.jpg
+ximages/Seq_v04_640x378_51.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_51.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_51.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_51.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_52.jpg images/Seq_v04_640x378_52.jpg
+s345979055.377470
+e345979055.429963
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_52.jpg
+ximages/Seq_v04_640x378_52.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_52.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_52.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_52.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_53.jpg images/Seq_v04_640x378_53.jpg
+s345979055.386078
+e345979055.430109
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_53.jpg
+ximages/Seq_v04_640x378_53.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_53.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_53.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_53.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_54.jpg images/Seq_v04_640x378_54.jpg
+s345979055.402557
+e345979055.430257
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_54.jpg
+ximages/Seq_v04_640x378_54.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_54.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_54.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_54.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_55.jpg images/Seq_v04_640x378_55.jpg
+s345979055.457970
+e345979055.548575
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_55.jpg
+ximages/Seq_v04_640x378_55.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_55.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_55.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_55.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_56.jpg images/Seq_v04_640x378_56.jpg
+s345979055.459213
+e345979055.548732
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_56.jpg
+ximages/Seq_v04_640x378_56.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_56.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_56.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_56.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_57.jpg images/Seq_v04_640x378_57.jpg
+s345979055.462633
+e345979055.549010
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_57.jpg
+ximages/Seq_v04_640x378_57.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_57.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_57.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_57.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_58.jpg images/Seq_v04_640x378_58.jpg
+s345979055.471781
+e345979055.549139
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_58.jpg
+ximages/Seq_v04_640x378_58.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_58.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_58.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_58.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_59.jpg images/Seq_v04_640x378_59.jpg
+s345979055.485301
+e345979055.549267
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_59.jpg
+ximages/Seq_v04_640x378_59.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_59.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_59.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_59.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_6.jpg images/Seq_v04_640x378_6.jpg
+s345979055.488445
+e345979055.549392
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_6.jpg
+ximages/Seq_v04_640x378_6.jpg
+lSLF07#2@33"Copy images/Seq_v04_640x378_6.jpg345979055#345979055#0(0"0(0#0#79"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_6.jpg4512689808#406"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_6.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_60.jpg images/Seq_v04_640x378_60.jpg
+s345979055.492887
+e345979055.549517
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_60.jpg
+ximages/Seq_v04_640x378_60.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_60.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_60.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_60.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_61.jpg images/Seq_v04_640x378_61.jpg
+s345979055.516534
+e345979055.549644
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_61.jpg
+ximages/Seq_v04_640x378_61.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_61.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_61.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_61.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_62.jpg images/Seq_v04_640x378_62.jpg
+s345979055.518746
+e345979055.549771
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_62.jpg
+ximages/Seq_v04_640x378_62.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_62.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_62.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_62.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_63.jpg images/Seq_v04_640x378_63.jpg
+s345979055.536086
+e345979055.653940
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_63.jpg
+ximages/Seq_v04_640x378_63.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_63.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_63.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_63.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_64.jpg images/Seq_v04_640x378_64.jpg
+s345979055.549855
+e345979055.652564
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_64.jpg
+ximages/Seq_v04_640x378_64.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_64.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_64.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_64.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_65.jpg images/Seq_v04_640x378_65.jpg
+s345979055.558156
+e345979055.652741
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_65.jpg
+ximages/Seq_v04_640x378_65.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_65.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_65.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_65.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_66.jpg images/Seq_v04_640x378_66.jpg
+s345979055.571015
+e345979055.652894
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_66.jpg
+ximages/Seq_v04_640x378_66.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_66.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_66.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_66.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_67.jpg images/Seq_v04_640x378_67.jpg
+s345979055.574760
+e345979055.653042
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_67.jpg
+ximages/Seq_v04_640x378_67.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_67.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_67.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_67.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_68.jpg images/Seq_v04_640x378_68.jpg
+s345979055.582600
+e345979055.653188
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_68.jpg
+ximages/Seq_v04_640x378_68.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_68.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_68.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_68.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_69.jpg images/Seq_v04_640x378_69.jpg
+s345979055.595249
+e345979055.653350
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_69.jpg
+ximages/Seq_v04_640x378_69.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_69.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_69.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_69.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_7.jpg images/Seq_v04_640x378_7.jpg
+s345979055.603158
+e345979055.653499
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_7.jpg
+ximages/Seq_v04_640x378_7.jpg
+lSLF07#2@33"Copy images/Seq_v04_640x378_7.jpg345979055#345979055#0(0"0(0#0#79"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_7.jpg4512689808#406"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_7.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_70.jpg images/Seq_v04_640x378_70.jpg
+s345979055.613030
+e345979055.653648
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_70.jpg
+ximages/Seq_v04_640x378_70.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_70.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_70.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_70.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_71.jpg images/Seq_v04_640x378_71.jpg
+s345979055.626518
+e345979055.653797
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_71.jpg
+ximages/Seq_v04_640x378_71.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_71.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_71.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_71.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_72.jpg images/Seq_v04_640x378_72.jpg
+s345979055.654023
+e345979055.677429
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_72.jpg
+ximages/Seq_v04_640x378_72.jpg
+lSLF07#2@34"Copy images/Seq_v04_640x378_72.jpg345979055#345979055#0(0"0(0#0#80"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_72.jpg4512689808#407"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_72.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_8.jpg images/Seq_v04_640x378_8.jpg
+s345979055.655557
+e345979055.677571
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_8.jpg
+ximages/Seq_v04_640x378_8.jpg
+lSLF07#2@33"Copy images/Seq_v04_640x378_8.jpg345979055#345979055#0(0"0(0#0#79"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_8.jpg4512689808#406"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_8.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CCpResource build/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_9.jpg images/Seq_v04_640x378_9.jpg
+s345979055.668674
+e345979055.692100
+r1
+xCpResource
+xbuild/Debug/FVImageSequenceDemo.app/Contents/Resources/Seq_v04_640x378_9.jpg
+ximages/Seq_v04_640x378_9.jpg
+lSLF07#2@33"Copy images/Seq_v04_640x378_9.jpg345979055#345979055#0(0"0(0#0#79"/Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_9.jpg4512689808#406"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/fernandovalente/Desktop/FVImageSequenceDemo/images/Seq_v04_640x378_9.jpg /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Resources0#
+
+CLd /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/MacOS/FVImageSequenceDemo normal x86_64
+r0
+
+CProcessInfoPlistFile /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Info.plist FVImageSequenceDemo-Info.plist
+s345979053.262263
+e345979053.266018
+r1
+xProcessInfoPlistFile
+x/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Info.plist
+xFVImageSequenceDemo-Info.plist
+lSLF07#2@38"Process FVImageSequenceDemo-Info.plist345979053#345979053#0(0"0(0#0#81"/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequenceDemo-Info.plist4512689920#382"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    builtin-infoPlistUtility FVImageSequenceDemo-Info.plist -genpkginfo /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/wp/b6wp1w0n6xv5hmx_rtb_kzjw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FVImageSequenceDemo_Prefix-elzpiotvdgxjnodkxxyutureouew/FVImageSequenceDemo_Prefix.pch.gch FVImageSequenceDemo_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvmgcc42
+s345979055.692261
+e345979061.194614
+r1
+xProcessPCH
+x/var/folders/wp/b6wp1w0n6xv5hmx_rtb_kzjw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FVImageSequenceDemo_Prefix-elzpiotvdgxjnodkxxyutureouew/FVImageSequenceDemo_Prefix.pch.gch
+xFVImageSequenceDemo_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@41"Precompile FVImageSequenceDemo_Prefix.pch345979055#345979061#0(0"0(0#0#81"/Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequenceDemo_Prefix.pch4512689808#1746"    cd /Users/fernandovalente/Desktop/FVImageSequenceDemo    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/FVImageSequenceDemo-generated-files.hmap -I/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/FVImageSequenceDemo-own-target-headers.hmap -I/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/FVImageSequenceDemo-all-target-headers.hmap -iquote /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/FVImageSequenceDemo-project-headers.hmap -F/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug -I/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/include -I/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/DerivedSources/x86_64 -I/Users/fernandovalente/Desktop/FVImageSequenceDemo/build/FVImageSequenceDemo.build/Debug/FVImageSequenceDemo.build/DerivedSources -isysroot /Developer/SDKs/MacOSX10.6.sdk -c /Users/fernandovalente/Desktop/FVImageSequenceDemo/FVImageSequenceDemo_Prefix.pch -o /var/folders/wp/b6wp1w0n6xv5hmx_rtb_kzjw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FVImageSequenceDemo_Prefix-elzpiotvdgxjnodkxxyutureouew/FVImageSequenceDemo_Prefix.pch.gch0#
+
+CTouch /Users/fernandovalente/Desktop/FVImageSequenceDemo/build/Debug/FVImageSequenceDemo.app
+r0
+
